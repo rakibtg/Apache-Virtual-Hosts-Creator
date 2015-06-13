@@ -33,7 +33,7 @@ Download avhCreator.py
 
 3) time to talk ;) the script itself is really descriptive so you should get the idea what to do when, if not you can make it better by contributing your code.
 
-4) screen shot's
+4) screen shot's <br/> 
 ![type the domain name](http://i.imgur.com/IL2lakL.png)
 ![domain settings](http://i.imgur.com/ZrOaPEe.png)
 ![viirtual domain created successfully](http://i.imgur.com/K7Y6MdW.png)

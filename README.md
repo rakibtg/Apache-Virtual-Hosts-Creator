@@ -27,14 +27,20 @@ Download avhCreator.py
 
     sudo curl -o avhCreator.py  https://raw.githubusercontent.com/rakibtg/Apache-Virtual-Hosts-Creator/master/avhCreator.py
 
-=> time to play/run the script, can't wait
+2) time to play/run the script, can't wait
 
     sudo python avhCreator.py
 
-=> time to talk ;) the script itself is really descriptive so you should get the idea what to do when, if not you can make it better by contributing your code.
+3) time to talk ;) the script itself is really descriptive so you should get the idea what to do when, if not you can make it better by contributing your code.
 
-=> screen shot's
+4) screen shot's
+![type the domain name](http://i.imgur.com/IL2lakL.png)
+![domain settings](http://i.imgur.com/ZrOaPEe.png)
+![viirtual domain created successfully](http://i.imgur.com/K7Y6MdW.png)
 
+time to celebrate :D
+--------------------
+![viirtual domain created successfully](http://i.imgur.com/7xv79F6.png)
 
- Here is a video on how to use it at <a href="https://www.youtube.com/watch?v=-ruvoYbSbIU">YouTube</a>
+Here is a video on how to use it at <a href="https://www.youtube.com/watch?v=-ruvoYbSbIU">YouTube</a>
 Developed by <a href="https://twitter.com/rakibtg" target="_blank">Hasan</a> :)
